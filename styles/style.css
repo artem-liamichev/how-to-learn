@@ -228,6 +228,8 @@
   text-align: center;
   margin-top: 90px;
   margin-bottom: 20px;
+  position: relative;
+  z-index: 20;
 }
 
 .section-subtitle_theme_dark {
